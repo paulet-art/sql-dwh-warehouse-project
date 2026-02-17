@@ -21,6 +21,8 @@ This approach ensures **data reliability, scalability, and auditability**.
 ---
 
 ## 📂 Data Layers
+<img width="1273" height="652" alt="image" src="https://github.com/user-attachments/assets/680de444-f552-436e-85e4-27ac0e64df56" />
+
 
 ### 1️⃣ Bronze Layer (Raw Data)
 **Purpose:** Preserve raw source data exactly as received.
